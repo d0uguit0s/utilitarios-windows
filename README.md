@@ -12,6 +12,7 @@
 
 # :mag: ÍNDICE
 * [#DESCRIÇÃO](https://github.com/douglassilvaa/utilitarios-windows/edit/master/README.md#page_with_curl-descri%C3%A7%C3%A3o)
+* [# Autor](https://github.com/douglassilvaa/utilitarios-windows/tree/master#pencil2-autor)
 
 # :page_with_curl: DESCRIÇÃO
 Projeto criado para reunir scripts de autamação úteis a fim de facilitar a vida do suporte de TI
