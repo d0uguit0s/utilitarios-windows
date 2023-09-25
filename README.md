@@ -2,6 +2,12 @@
 
 > :construction: Projeto em construção :construction:
 
+# :mag: ÍNDICE
+* [:star2: BADGES](https://github.com/douglassilvaa/utilitarios-windows/tree/master#star2-badges)
+* [:page_with_curl: DESCRIÇÃO](https://github.com/douglassilvaa/utilitarios-windows/tree/master#page_with_curl-descri%C3%A7%C3%A3o)
+* [:hammer: Funcionalidades do projeto](https://github.com/douglassilvaa/utilitarios-windows/tree/master#hammer-funcionalidades-do-projeto)
+* [:pencil2: Autor](https://github.com/douglassilvaa/utilitarios-windows/tree/master#pencil2-autor)
+
 # :star2: BADGES
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/status-development-db8b00">
@@ -9,10 +15,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/author-Douglas%20Silva%20de%20Oliveira-db005b">
   <img alt="Static Badge" src="https://img.shields.io/badge/Last%20Update-September-06940d">
 </div>
-
-# :mag: ÍNDICE
-* [#DESCRIÇÃO](https://github.com/douglassilvaa/utilitarios-windows/edit/master/README.md#page_with_curl-descri%C3%A7%C3%A3o)
-* [# Autor](https://github.com/douglassilvaa/utilitarios-windows/tree/master#pencil2-autor)
 
 # :page_with_curl: DESCRIÇÃO
 Projeto criado para reunir scripts de autamação úteis a fim de facilitar a vida do suporte de TI
