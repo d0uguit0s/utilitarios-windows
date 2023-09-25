@@ -11,21 +11,17 @@
 </div>
 
 # :mag: ÍNDICE
-
-* [Descrição do Projeto](#:page_with_curl:DESCRIÇÃO)
+* [#DESCRIÇÃO](https://github.com/douglassilvaa/utilitarios-windows/edit/master/README.md#page_with_curl-descri%C3%A7%C3%A3o)
 
 # :page_with_curl: DESCRIÇÃO
-
 Projeto criado para reunir scripts de autamação úteis a fim de facilitar a vida do suporte de TI
 
 # :hammer: Funcionalidades do projeto
-
 - `Funcionalidade 1`: descrição da funcionalidade 1
 - `Funcionalidade 2`: descrição da funcionalidade 2
 - `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
 - `Funcionalidade 3`: descrição da funcionalidade 3
 
 # :pencil2: Autor
-
 | [<img loading="'lazy" src="https://avatars.githubusercontent.com/douglassilvaa" width=115><br><sub>Douglas Silva de Oliveira</sub>](https://github.com/douglassilvaa)
 | :---: | 
